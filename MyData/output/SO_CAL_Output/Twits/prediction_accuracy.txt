@@ -1,0 +1,9 @@
+------
+Results:
+------
+137 Positive Reviews
+Percent Correct: 35.03649635036496 %
+60 Negative Reviews
+Percent Correct: 36.666666666666664 %
+197 Total Reviews
+Percent Correct: 35.53299492385787 %

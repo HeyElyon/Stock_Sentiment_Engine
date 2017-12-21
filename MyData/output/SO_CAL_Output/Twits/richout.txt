@@ -1,0 +1,6823 @@
+######
+---------
+no1
+---------
+Text Length: 14
+---------
+Nouns:
+-----
+balance 1.0  = 1.0
+Trade 3.0  = 3.0
+-----
+Average SO: 2.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+some SHORT -5.0 X 0.8 (INTENSIFIED) X 2.0 (CAPITALIZED)  X 1.5 (NEGATIVE) = -12.0
+-----
+Average SO: -12.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Add some SHORT to the portfolio for balance purposes . -8.0
+Trade Idea next . 0
+---------
+Total SO: -2.6666666666666665
+---------
+######
+---------
+no10
+---------
+Text Length: 5
+---------
+Nouns:
+-----
+TRADE 3.0 X 2.0 (CAPITALIZED)  = 6.0
+-----
+Average SO: 6.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+TASTY 2.0 X 2.0 (CAPITALIZED)  = 4.0
+-----
+Average SO: 4.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+DISCUSSION ON TASTY TRADE https: 10.0
+---------
+Total SO: 5.0
+---------
+######
+---------
+no11
+---------
+Text Length: 1
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+https: 0
+---------
+Total SO: 0
+---------
+######
+---------
+no12
+---------
+Text Length: 1
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+https: 0
+---------
+Total SO: 0
+---------
+######
+---------
+no13
+---------
+Text Length: 11
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+negative -1.0  X 1.5 (NEGATIVE) = -1.5
+-----
+Average SO: -1.5
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+A net neutrality repeal is a helluva negative catalyst for tech -1.5
+---------
+Total SO: -1.5
+---------
+######
+---------
+no14
+---------
+Text Length: 11
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+trading at over 10 times revenue . 0
+Sold at $ 2.75 0
+---------
+Total SO: 0
+---------
+######
+---------
+no15
+---------
+Text Length: 6
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Look out below . 0
+@ 1simpletrader 0
+---------
+Total SO: 0
+---------
+######
+---------
+no16
+---------
+Text Length: 20
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+@ssfranny yep , ... . 0
+all retail  Dept stores are getting killed . 0
+. 0
+looks like a #technical #Flush 0
+---------
+Total SO: 0
+---------
+######
+---------
+no17
+---------
+Text Length: 21
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+violated -2.0  X 1.5 (NEGATIVE) = -3.0
+-----
+Average SO: -3.0
+-----
+Adjectives:
+-----
+short -5.0  X 1.5 (NEGATIVE) = -7.5
+-----
+Average SO: -7.5
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Testing the gap but holding so far . 0
+Watch this as a short , if the gap does get violated . -10.5
+---------
+Total SO: -5.25
+---------
+######
+---------
+no18
+---------
+Text Length: 11
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Biotech oversold rally into the 50D MA . 0
+Text book action 0
+---------
+Total SO: 0
+---------
+######
+---------
+no19
+---------
+Text Length: 6
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+... $ 32 needs to hold 0
+---------
+Total SO: 0
+---------
+######
+---------
+no2
+---------
+Text Length: 12
+---------
+Nouns:
+-----
+Risk -1.0  X 1.5 (NEGATIVE) = -1.5
+-----
+Average SO: -1.5
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+SHORT -5.0 X 2.0 (CAPITALIZED)  X 1.5 (NEGATIVE) = -15.0
+-----
+Average SO: -15.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Risk $ 60 to make $ 440 on the SHORT side . -16.5
+---------
+Total SO: -8.25
+---------
+######
+---------
+no20
+---------
+Text Length: 6
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+perish -1.0  X 1.5 (NEGATIVE) = -1.5
+-----
+Average SO: -1.5
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Lambo and perish . -1.5
+@ 1simpletrader 0
+---------
+Total SO: -1.5
+---------
+######
+---------
+no21
+---------
+Text Length: 27
+---------
+Nouns:
+-----
+high heaven 3.0 X 1.2 (INTENSIFIED)  = 3.5999999999999996
+-----
+Average SO: 3.5999999999999996
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+big 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adverbs:
+-----
+short -1.0  X 1.5 (NEGATIVE) = -1.5
+-----
+Average SO: -1.5
+-----
+-----
+SO by Sentence
+-----
+when options open up on futures I 'm going to short this to high heaven . 2.0999999999999996
+And so are all the big boys and girls . 1.0
+#wordonthestreet 0
+---------
+Total SO: 1.0333333333333332
+---------
+######
+---------
+no22
+---------
+Text Length: 24
+---------
+Nouns:
+-----
+problem -2.0  X 1.5 (NEGATIVE) = -3.0
+value 3.0  = 3.0
+-----
+Average SO: 0.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+fair 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+@Jsling no one is shorting it . 0
+That 's the problem . -3.0
+The margin required is above the fair value . 4.0
+Be patient . 0
+---------
+Total SO: 0.3333333333333333
+---------
+######
+---------
+no23
+---------
+Text Length: 20
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+has a head and shoulders pattern in place , but so far , it isn &#39; t confirming it . 0
+---------
+Total SO: 0
+---------
+######
+---------
+no24
+---------
+Text Length: 17
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+You bitcoiners should listen to Old Man Buffett this one time , for your own sake https: 0
+---------
+Total SO: 0
+---------
+######
+---------
+no25
+---------
+Text Length: 31
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+Sell -5.0  X 1.5 (NEGATIVE) = -7.5
+-----
+Average SO: -7.5
+-----
+Adjectives:
+-----
+better 0.0 = 0
+-----
+Average SO: 0.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+@Poopoo Your username says it better than I :) when the options come out on this pig , it &#39; s going to be a blood bath . -7.5
+Sell now . 0
+---------
+Total SO: -3.75
+---------
+######
+---------
+no26
+---------
+Text Length: 24
+---------
+Nouns:
+-----
+bubble -4.0  X 1.5 (NEGATIVE) = -6.0
+FORTUNE 2.0 X 2.0 (CAPITALIZED) X 2.0 (EXCLAMATION)  = 8.0
+-----
+Average SO: 1.0
+-----
+Verbs:
+-----
+promoting 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adjectives:
+-----
+super 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+so now super models are promoting #bitcoin books https: this is such a bubble I can scream . -2.0
+Going to make a FORTUNE ! 8.0
+---------
+Total SO: 1.5
+---------
+######
+---------
+no27
+---------
+Text Length: 19
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+big 1.0 X 2.0 (EXCLAMATION)  = 2.0
+Full-fledged 2.0  = 2.0
+free 3.0  = 3.0
+short -5.0 X 0 (BLOCKED) = 0
+-----
+Average SO: 1.75
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Natural Gas ... And that was a big NOPE ! 4.0
+Full-fledged breakdown . 0
+Feel free to be short . 3.0
+---------
+Total SO: 1.75
+---------
+######
+---------
+no28
+---------
+Text Length: 10
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+top 2.0  = 2.0
+-----
+Average SO: 2.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+for the record I called the top last night . 2.0
+---------
+Total SO: 2.0
+---------
+######
+---------
+no29
+---------
+Text Length: 14
+---------
+Nouns:
+-----
+Cost -1.0  X 1.5 (NEGATIVE) = -1.5
+-----
+Average SO: -1.5
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Cost more to transact than PayPal or a check . -1.5
+And certainly cash . 0
+---------
+Total SO: -1.5
+---------
+######
+---------
+no3
+---------
+Text Length: 26
+---------
+Nouns:
+-----
+rejection -5.0  X 1.5 (NEGATIVE) = -7.5
+-----
+Average SO: -7.5
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+US Dollar ... Back to the 30w MA . 0
+Let &#39; s see if it can cross again , or if we get another rejection . -7.5
+---------
+Total SO: -7.5
+---------
+######
+---------
+no30
+---------
+Text Length: 19
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+@Faces @CryptoBasher so what if they do . 0
+Then it 's not bitcoin . 0
+It 's something else . 0
+---------
+Total SO: 0
+---------
+######
+---------
+no31
+---------
+Text Length: 32
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+panic -4.0  X 1.5 (NEGATIVE) = -6.0
+-----
+Average SO: -6.0
+-----
+Adjectives:
+-----
+worth 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+as soon as the last group paid $ 18-19k see it worth $ 15k they will panic . -5.0
+And so it begins . 0
+Seen it before . 0
+Will see it again . 0
+---------
+Total SO: -2.5
+---------
+######
+---------
+no32
+---------
+Text Length: 8
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+big 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+@dontbefast big dogs have n't even started . 1.0
+---------
+Total SO: 1.0
+---------
+######
+---------
+no33
+---------
+Text Length: 4
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+@BoostedBullish @Towman uh huh 0
+---------
+Total SO: 0
+---------
+######
+---------
+no34
+---------
+Text Length: 3
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+bye bye . 0
+---------
+Total SO: 0
+---------
+######
+---------
+no35
+---------
+Text Length: 16
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+falling -5.0  X 1.5 (NEGATIVE) = -7.5
+-----
+Average SO: -7.5
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+just 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+-----
+SO by Sentence
+-----
+this is just the first leg . 1.0
+Wait until Asia open and sees it falling . -7.5
+---------
+Total SO: -3.25
+---------
+######
+---------
+no36
+---------
+Text Length: 31
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+new 2.0  = 2.0
+worth 1.0  = 1.0
+-----
+Average SO: 1.5
+-----
+Adverbs:
+-----
+Just 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+-----
+SO by Sentence
+-----
+I 'm launching a new coin . 2.0
+It 's called #bubblecoin . 0
+It 's worth $ 200 Billion . 1.0
+And one day $ 1Trillion . 1.0
+Just a few computers talking . 0
+---------
+Total SO: 1.3333333333333333
+---------
+######
+---------
+no37
+---------
+Text Length: 32
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+worth 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+( 2 ) who on earth wants to send a coin that will be worth $ 1000 less 1 hr later in a biz transaction . 1.0
+Block chain yes bitcoin no . 0
+---------
+Total SO: 1.0
+---------
+######
+---------
+no38
+---------
+Text Length: 25
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+lucky 2.0  = 2.0
+-----
+Average SO: 2.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Wake up people . 0
+This is a mania . 0
+If you are lucky enough to have made 2,3,4,5,10 x your money . 2.0
+Get out ! 0
+---------
+Total SO: 2.0
+---------
+######
+---------
+no39
+---------
+Text Length: 22
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+big 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Volvo VW and now Toyota all the big boys are going to knock this company and its elitist attitude off the map 1.0
+---------
+Total SO: 1.0
+---------
+######
+---------
+no4
+---------
+Text Length: 20
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+puke -5.0  X 1.5 (NEGATIVE) = -7.5
+-----
+Average SO: -7.5
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Gold Miners ... Here &#39; s the chart on Miners . 0
+Yikes . 0
+Looks like it wants to puke . -7.5
+---------
+Total SO: -7.5
+---------
+######
+---------
+no40
+---------
+Text Length: 24
+---------
+Nouns:
+-----
+biggest correction 1.0 X 1.5 (INTENSIFIED)  = 1.5
+risk -1.0  X 1.5 (NEGATIVE) = -1.5
+bubble -4.0  X 1.5 (NEGATIVE) = -6.0
+-----
+Average SO: -2.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+political -1.0  X 1.5 (NEGATIVE) = -1.5
+-----
+Average SO: -1.5
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+# 2018predictions Market could have the biggest correction in history . 1.5
+QT , Geo political risk , Fed tightening cycle , bubble valuations . -9.0
+---------
+Total SO: -1.875
+---------
+######
+---------
+no41
+---------
+Text Length: 13
+---------
+Nouns:
+-----
+trade 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+available 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+@dustinman as soon as options available I will post the trade ticket . 6.0
+---------
+Total SO: 3.0
+---------
+######
+---------
+no42
+---------
+Text Length: 13
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+not enough -2.0  X 1.5 (NEGATIVE) = -3.0
+-----
+Average SO: -3.0
+-----
+Adverbs:
+-----
+too -3.0  X 1.5 (NEGATIVE) = -4.5
+-----
+Average SO: -4.5
+-----
+-----
+SO by Sentence
+-----
+New site vote = 5 too many adds not enough room for twits -7.5
+---------
+Total SO: -3.75
+---------
+######
+---------
+no43
+---------
+Text Length: 12
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+told you this was going to happen ... only the beginning . 0
+---------
+Total SO: 0
+---------
+######
+---------
+no44
+---------
+Text Length: 7
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+well 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+-----
+SO by Sentence
+-----
+This wont end well . 1.0
+@ 1simpletrader 0
+---------
+Total SO: 1.0
+---------
+######
+---------
+no45
+---------
+Text Length: 14
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+Big 1.0  = 1.0
+Big double top 2.0 X 1.6 (INTENSIFIED)  = 3.2
+-----
+Average SO: 2.1
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Big double top pattern unfolding . 4.2
+Watch for a break at the neckline . 0
+---------
+Total SO: 2.1
+---------
+######
+---------
+no46
+---------
+Text Length: 4
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Weak . 0
+@ 1simpletrader 0
+---------
+Total SO: 0
+---------
+######
+---------
+no47
+---------
+Text Length: 17
+---------
+Nouns:
+-----
+trade 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+insane -3.0  X 1.5 (NEGATIVE) = -4.5
+-----
+Average SO: -4.5
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Smart money telling you exactly what side to be on this trade premiums are insane for Puts -1.5
+---------
+Total SO: -0.75
+---------
+######
+---------
+no48
+---------
+Text Length: 19
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+insane -3.0 X 2.0 (HIGHLIGHTED)  X 1.5 (NEGATIVE) = -9.0
+-----
+Average SO: -9.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+If I could find borrows I would short it but I &#39; m not paying insane premiums on Puts -9.0
+---------
+Total SO: -9.0
+---------
+######
+---------
+no49
+---------
+Text Length: 12
+---------
+Nouns:
+-----
+trade 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+trade idea vertical bear call spread . 3.0
+End of the week . 0
+---------
+Total SO: 3.0
+---------
+######
+---------
+no5
+---------
+Text Length: 5
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Rejected 20 . 0
+@ 1simpletrader 0
+---------
+Total SO: 0
+---------
+######
+---------
+no50
+---------
+Text Length: 27
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+Short -5.0  X 1.5 (NEGATIVE) = -7.5
+Long 5.0  = 5.0
+-----
+Average SO: -1.25
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+A lot of double topping going on . 0
+Add some shorts to the portfolio . -7.5
+Short term type stuff . 5.0
+Long vol . 0
+$ aapl $ wmt 0
+---------
+Total SO: -1.25
+---------
+######
+---------
+no51
+---------
+Text Length: 20
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+Just 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+-----
+SO by Sentence
+-----
+Just a matter of time before the Government does what it does best . 1.0
+Shut down ALL the competition . 0
+---------
+Total SO: 1.0
+---------
+######
+---------
+no52
+---------
+Text Length: 19
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Im closing my shorts but plan on re opening after we see the reaction to the Tax vote https: 0
+---------
+Total SO: 0
+---------
+######
+---------
+no53
+---------
+Text Length: 17
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+lower -1.0 X 0.5 (INTENSIFIED) (COMPARATIVE)  X 1.5 (NEGATIVE) = -0.75
+old -1.0  X 1.5 (NEGATIVE) = -1.5
+-----
+Average SO: -1.125
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+The Netflix 50 day moving average is starting to turn lower while old resistance 190 holds again -2.25
+---------
+Total SO: -1.125
+---------
+######
+---------
+no54
+---------
+Text Length: 11
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+bad -3.0  X 1.5 (NEGATIVE) = -4.5
+-----
+Average SO: -4.5
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+A gap down would be bad for this . -4.5
+@ 1simpletrader 0
+---------
+Total SO: -4.5
+---------
+######
+---------
+no55
+---------
+Text Length: 17
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Short Setups to Watch Despite This Being one of the Worst years for Shorting + More http: 0
+---------
+Total SO: 0
+---------
+######
+---------
+no56
+---------
+Text Length: 3
+---------
+Nouns:
+-----
+trade 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+trade idea ... 3.0
+---------
+Total SO: 3.0
+---------
+######
+---------
+no57
+---------
+Text Length: 17
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+just 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+-----
+SO by Sentence
+-----
+how &#39; s that working out for you guys ? 0
+It &#39; s just the start . 1.0
+---------
+Total SO: 1.0
+---------
+######
+---------
+no58
+---------
+Text Length: 26
+---------
+Nouns:
+-----
+haven 2.0  = 2.0
+-----
+Average SO: 2.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Oil Services still haven &#39; t proven anything although they &#39; ve had every chance in the world . 2.0
+200 day MA catching up to price 0
+---------
+Total SO: 2.0
+---------
+######
+---------
+no59
+---------
+Text Length: 15
+---------
+Nouns:
+-----
+numerous attempts -1.0 X 1.3 (INTENSIFIED)  X 1.5 (NEGATIVE) = -1.9500000000000002
+-----
+Average SO: -1.9500000000000002
+-----
+Verbs:
+-----
+struggling -2.0  X 1.5 (NEGATIVE) = -3.0
+rally 2.0  = 2.0
+-----
+Average SO: -0.5
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+still struggling with the .618 fib retracement area despite numerous attempts to rally through it -2.95
+---------
+Total SO: -0.9833333333333334
+---------
+######
+---------
+no6
+---------
+Text Length: 5
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Full circle . 0
+@ 1simpletrader 0
+---------
+Total SO: 0
+---------
+######
+---------
+no60
+---------
+Text Length: 9
+---------
+Nouns:
+-----
+rejection -5.0  X 1.5 (NEGATIVE) = -7.5
+-----
+Average SO: -7.5
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Sharp rejection in at the 2015 highs last week -7.5
+---------
+Total SO: -7.5
+---------
+######
+---------
+no7
+---------
+Text Length: 5
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Rejecting again . 0
+@ 1simpletrader 0
+---------
+Total SO: 0
+---------
+######
+---------
+no8
+---------
+Text Length: 13
+---------
+Nouns:
+-----
+downgrade -5.0  X 1.5 (NEGATIVE) = -7.5
+-----
+Average SO: -7.5
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+ BAML has altered the path of this stock with their downgrade . -7.5
+---------
+Total SO: -7.5
+---------
+######
+---------
+no9
+---------
+Text Length: 16
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+persevere 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adjectives:
+-----
+low -1.0  X 1.5 (NEGATIVE) = -1.5
+tough -2.0  X 1.5 (NEGATIVE) = -3.0
+-----
+Average SO: -2.25
+-----
+Adverbs:
+-----
+just 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+-----
+SO by Sentence
+-----
+. 0
+. 0
+shorting low float stock is tough . -4.5
+. 0
+One just has to persevere !! 2.0
+---------
+Total SO: -0.625
+---------
+######
+---------
+yes1
+---------
+Text Length: 4
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Second Breakout Wave Started 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes10
+---------
+Text Length: 4
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+See my notes . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes100
+---------
+Text Length: 21
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+breaks through through $ 25 we could see much higher 1.0 X 1.1 (INTENSIFIED)  = 1.1
+-----
+Average SO: 1.1
+-----
+Adjectives:
+-----
+some pretty stiff -1.0 X 0.7 (INTENSIFIED)  X 1.5 (NEGATIVE) = -1.0499999999999998
+-----
+Average SO: -1.0499999999999998
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+TWTR Monthly now into some pretty stiff resistance . -1.0499999999999998
+If it breaks through $ 25 we could see much higher prices 1.1
+---------
+Total SO: 0.025000000000000133
+---------
+######
+---------
+yes101
+---------
+Text Length: 3
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+H1 going again 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes102
+---------
+Text Length: 1
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+clean 2.0  = 2.0
+-----
+Average SO: 2.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+clean 2.0
+---------
+Total SO: 2.0
+---------
+######
+---------
+yes103
+---------
+Text Length: 13
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+dead -3.0  X 1.5 (NEGATIVE) = -4.5
+dead -3.0 X 1/2 (REPEATED)  X 1.5 (NEGATIVE) = -2.25
+-----
+Average SO: -3.375
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+You might &#39; ve thought was dead , it ain &#39; t dead -6.75
+---------
+Total SO: -3.375
+---------
+######
+---------
+yes104
+---------
+Text Length: 6
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+perish -1.0  X 1.5 (NEGATIVE) = -1.5
+-----
+Average SO: -1.5
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Cover or perish . -1.5
+@ 1simpletrader 0
+---------
+Total SO: -1.5
+---------
+######
+---------
+yes105
+---------
+Text Length: 12
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+this will only go higher when and if @rexman gets in . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes106
+---------
+Text Length: 6
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+should push #higher into the close 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes107
+---------
+Text Length: 7
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+All hail $ gbtc . 0
+. 0
+lol 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes108
+---------
+Text Length: 8
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+must be @rexman buying 200,000 shares : ) 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes109
+---------
+Text Length: 16
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+Buying 5.0  = 5.0
+-----
+Average SO: 5.0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+damn -4.0 X 2.0 (EXCLAMATION)  X 1.5 (NEGATIVE) = -12.0
+-----
+Average SO: -12.0
+-----
+-----
+SO by Sentence
+-----
+$ twtr . 0
+. -12.0
+damn right ! 5.0
+Buying the fkn dips is now a thing here 0
+---------
+Total SO: -3.5
+---------
+######
+---------
+yes11
+---------
+Text Length: 2
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Trade idea 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes110
+---------
+Text Length: 26
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+sell -5.0  X 1.5 (NEGATIVE) = -7.5
+-----
+Average SO: -7.5
+-----
+Adjectives:
+-----
+insane -3.0  X 1.5 (NEGATIVE) = -4.5
+-----
+Average SO: -4.5
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+@shockexchange101 nope . 0
+I own more than one stock at a time lol . 0
+You &#39; d have to be insane to sell HMNY @ 200DMA -12.0
+---------
+Total SO: -6.0
+---------
+######
+---------
+yes111
+---------
+Text Length: 7
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Gap n go possibly . 0
+@ 1simpletrader 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes112
+---------
+Text Length: 10
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+BUY 5.0 X 2.0 (CAPITALIZED)  = 10.0
+-----
+Average SO: 10.0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+I ALERT U. . 0
+. 0
+I BUY @ 1simpletrader #PayUs 10.0
+---------
+Total SO: 10.0
+---------
+######
+---------
+yes113
+---------
+Text Length: 23
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+sell -5.0  X 1.5 (NEGATIVE) = -7.5
+-----
+Average SO: -7.5
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+most sane people here will sell near $ 2 but then the blockchain cult will take over and send it to $ 5 -7.5
+---------
+Total SO: -7.5
+---------
+######
+---------
+yes114
+---------
+Text Length: 9
+---------
+Nouns:
+-----
+some profits 2.0 X 0.8 (INTENSIFIED)  = 1.6
+-----
+Average SO: 1.6
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+rotated some profits into $ nxtd at $ 1.89 1.6
+---------
+Total SO: 1.6
+---------
+######
+---------
+yes115
+---------
+Text Length: 7
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Swing Trading Strategy Report # 102 http: 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes116
+---------
+Text Length: 8
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+new 2.0  = 2.0
+-----
+Average SO: 2.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Awesome new look on the layout @Stocktwits !!! 2.0
+---------
+Total SO: 2.0
+---------
+######
+---------
+yes117
+---------
+Text Length: 14
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+just 1.0 X 2.0 (HIGHLIGHTED)  = 2.0
+-----
+Average SO: 2.0
+-----
+-----
+SO by Sentence
+-----
+next ? 0
+Doubt it , but worth a speculative try just in case ... 2.0
+---------
+Total SO: 2.0
+---------
+######
+---------
+yes118
+---------
+Text Length: 5
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+buying 5.0  = 5.0
+-----
+Average SO: 5.0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+buying some here at 9.40 5.0
+---------
+Total SO: 5.0
+---------
+######
+---------
+yes119
+---------
+Text Length: 7
+---------
+Nouns:
+-----
+major breakout 5.0 X 1.2 (INTENSIFIED)  = 6.0
+-----
+Average SO: 6.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+ready 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+looks ready for a major breakout . 7.0
+---------
+Total SO: 3.5
+---------
+######
+---------
+yes12
+---------
+Text Length: 1
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Ranking 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes120
+---------
+Text Length: 2
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Technical Analysis 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes121
+---------
+Text Length: 4
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Nice bull flag on 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes122
+---------
+Text Length: 5
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+with the ascending triangle pattern 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes123
+---------
+Text Length: 2
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+unbelievable -2.0  X 1.5 (NEGATIVE) = -3.0
+-----
+Average SO: -3.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+unbelievable guidance -3.0
+---------
+Total SO: -3.0
+---------
+######
+---------
+yes124
+---------
+Text Length: 14
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+incredible 5.0  = 5.0
+-----
+Average SO: 5.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+$ dri buying is a result of their guidance . 0
+. 0
+it was incredible 5.0
+---------
+Total SO: 5.0
+---------
+######
+---------
+yes125
+---------
+Text Length: 19
+---------
+Nouns:
+-----
+breakout 5.0  = 5.0
+-----
+Average SO: 5.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+Nice 2.0  = 2.0
+-----
+Average SO: 2.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+the grandaddy of medical marijuana plays . 2.0
+Nice daily action . 0
+Oh so close to a large base breakout 5.0
+---------
+Total SO: 3.5
+---------
+######
+---------
+yes126
+---------
+Text Length: 22
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+like 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+up 4.0  = 4.0
+-----
+Average SO: 4.0
+-----
+-----
+SO by Sentence
+-----
+$ PRELF has the look I like , let &#39; s see if she can get up and go . 5.0
+#blockchain #bitcoin 0
+---------
+Total SO: 2.5
+---------
+######
+---------
+yes127
+---------
+Text Length: 29
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+Big 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+It 's time ladies to start thinking about where to be in 2018 . 0
+Because what worked may not next . 0
+Europe Emerging Materials Real estate . 1.0
+Big $ 0
+---------
+Total SO: 1.0
+---------
+######
+---------
+yes128
+---------
+Text Length: 11
+---------
+Nouns:
+-----
+fun 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+little -1.0  X 1.5 (NEGATIVE) = -1.5
+ready 1.0 X 0 (QUESTION) = 0
+-----
+Average SO: -0.75
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Lets have a little fun here in ... . 1.5
+ready ? 0
+---------
+Total SO: 0.5
+---------
+######
+---------
+yes129
+---------
+Text Length: 3
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+and takes off 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes13
+---------
+Text Length: 23
+---------
+Nouns:
+-----
+small trade 3.0 X 0.7 (INTENSIFIED)  = 2.0999999999999996
+risk -1.0  X 1.5 (NEGATIVE) = -1.5
+-----
+Average SO: 0.2999999999999998
+-----
+Verbs:
+-----
+lose -2.0  X 1.5 (NEGATIVE) = -3.0
+-----
+Average SO: -3.0
+-----
+Adjectives:
+-----
+quick 2.0  = 2.0
+LONG 5.0 X 2.0 (CAPITALIZED)  = 10.0
+-----
+Average SO: 6.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+For a quick small trade , LONG the 170 Call Fri Expiry . 14.1
+Don &#39; t risk more than you can lose . -4.5
+---------
+Total SO: 1.92
+---------
+######
+---------
+yes130
+---------
+Text Length: 15
+---------
+Nouns:
+-----
+idiot -3.0  X 1.5 (NEGATIVE) = -4.5
+idiot -3.0 X 1/2 (REPEATED)  X 1.5 (NEGATIVE) = -2.25
+greatness 3.0  = 3.0
+-----
+Average SO: -1.25
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+A village is missing its idiot !!! -4.5
+yep , the idiot shorting greatness at and 0.75
+---------
+Total SO: -1.25
+---------
+######
+---------
+yes131
+---------
+Text Length: 2
+---------
+Nouns:
+-----
+trade 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+trade idea 3.0
+---------
+Total SO: 3.0
+---------
+######
+---------
+yes132
+---------
+Text Length: 9
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+shorts are on the run ... $ $ $ 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes133
+---------
+Text Length: 11
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+new 2.0  = 2.0
+-----
+Average SO: 2.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+and yes , has tons of new money rolling in . 2.0
+---------
+Total SO: 2.0
+---------
+######
+---------
+yes134
+---------
+Text Length: 34
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+..... 70 % of the time , stocks that make it to $ 96 for the first time will hit $ 120 . 0
+. 0
+and 40 % of the time will test $ 150 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes135
+---------
+Text Length: 2
+---------
+Nouns:
+-----
+trade 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+trade idea 3.0
+---------
+Total SO: 3.0
+---------
+######
+---------
+yes136
+---------
+Text Length: 11
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Cup and Handle formed and time for rally in 2018 . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes137
+---------
+Text Length: 6
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+high 4.0  = 4.0
+-----
+Average SO: 4.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+On high alert . 4.0
+@ 1simpletrader 0
+---------
+Total SO: 4.0
+---------
+######
+---------
+yes14
+---------
+Text Length: 15
+---------
+Nouns:
+-----
+breakout 5.0  = 5.0
+-----
+Average SO: 5.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+good 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+could be a good breakout candidate here to 27-29 &#39; s. ER next week . 8.0
+---------
+Total SO: 4.0
+---------
+######
+---------
+yes15
+---------
+Text Length: 9
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+173.54 is the number to punch through EOD . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes16
+---------
+Text Length: 3
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+See my notes 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes17
+---------
+Text Length: 6
+---------
+Nouns:
+-----
+Breakout 5.0  = 5.0
+-----
+Average SO: 5.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Breakout Ready . 5.0
+See notes . 0
+---------
+Total SO: 5.0
+---------
+######
+---------
+yes18
+---------
+Text Length: 3
+---------
+Nouns:
+-----
+Trade 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Trade idea . 3.0
+---------
+Total SO: 3.0
+---------
+######
+---------
+yes19
+---------
+Text Length: 5
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+@DKSF to the moon . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes2
+---------
+Text Length: 14
+---------
+Nouns:
+-----
+Risk -1.0  X 1.5 (NEGATIVE) = -1.5
+-----
+Average SO: -1.5
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Risk $ 75 to make $ 425 with a a 71 % chance . -1.5
+---------
+Total SO: -1.5
+---------
+######
+---------
+yes20
+---------
+Text Length: 22
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+just 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+-----
+SO by Sentence
+-----
+#Gold , Silver turned up to multi-day highs coinciding with Yield , USD decline just a time when many were avoiding it 1.0
+---------
+Total SO: 1.0
+---------
+######
+---------
+yes21
+---------
+Text Length: 18
+---------
+Nouns:
+-----
+breakout 5.0  = 5.0
+-----
+Average SO: 5.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+#Healthcare breakout proved to be one of the more BULLISH developments in the market Wed - Favor outperformance 5.0
+---------
+Total SO: 5.0
+---------
+######
+---------
+yes22
+---------
+Text Length: 2
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Breakout Alert 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes23
+---------
+Text Length: 25
+---------
+Nouns:
+-----
+noise -1.0  X 1.5 (NEGATIVE) = -1.5
+-----
+Average SO: -1.5
+-----
+Verbs:
+-----
+selling -5.0  X 1.5 (NEGATIVE) = -7.5
+-----
+Average SO: -7.5
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Lots of noise today in Banks . -1.5
+Market playing games short-term by selling the news , but Fed &#39; s rate increase a longer-term tailwind -7.5
+---------
+Total SO: -4.5
+---------
+######
+---------
+yes24
+---------
+Text Length: 10
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+See my stream for notes on and other picks . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes25
+---------
+Text Length: 7
+---------
+Nouns:
+-----
+Breakout 5.0  = 5.0
+-----
+Average SO: 5.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Breakout Ready . 5.0
+See my notes . 0
+---------
+Total SO: 5.0
+---------
+######
+---------
+yes26
+---------
+Text Length: 4
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+See my notes . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes27
+---------
+Text Length: 2
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Trade idea 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes28
+---------
+Text Length: 3
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+See my notes 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes29
+---------
+Text Length: 27
+---------
+Nouns:
+-----
+trades 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+huge 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+rotated some capital into - MACD turned , 20DMA broke , huge block trades ( vol precedes price ) , and news . 4.0
+$ 3.15 swing target 0
+---------
+Total SO: 2.0
+---------
+######
+---------
+yes3
+---------
+Text Length: 3
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+97 % Percentile 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes30
+---------
+Text Length: 2
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Technical Analysis 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes31
+---------
+Text Length: 12
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+wants to break out of this bull flag it looks like . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes32
+---------
+Text Length: 9
+---------
+Nouns:
+-----
+breakout 5.0  = 5.0
+-----
+Average SO: 5.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Consolidation in should lead to a breakout eventually . 5.0
+---------
+Total SO: 5.0
+---------
+######
+---------
+yes33
+---------
+Text Length: 13
+---------
+Nouns:
+-----
+breakout 5.0  = 5.0
+Trade 3.0  = 3.0
+-----
+Average SO: 4.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+I posted the possibility of a breakout last night . 8.0
+Trade Idea . 0
+---------
+Total SO: 4.0
+---------
+######
+---------
+yes34
+---------
+Text Length: 5
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+105 target . 0
+@ 1simpletrader 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes35
+---------
+Text Length: 6
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Possible temp bottom . 0
+@ 1simpletrader 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes36
+---------
+Text Length: 1
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+H1 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes37
+---------
+Text Length: 3
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+See news . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes38
+---------
+Text Length: 4
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+BRIGHT 3.0 X 2.0 (CAPITALIZED)  = 6.0
+-----
+Average SO: 6.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+BRIGHT . 6.0
+@ 1simpletrader 0
+---------
+Total SO: 6.0
+---------
+######
+---------
+yes39
+---------
+Text Length: 4
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+BTFD . 0
+@ 1simpletrader 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes4
+---------
+Text Length: 7
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+has $ 28 written all over it 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes40
+---------
+Text Length: 7
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Checked trend and continued . 0
+@ 1simpletrader 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes41
+---------
+Text Length: 4
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+See my notes . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes42
+---------
+Text Length: 8
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+If you are in you are probably grinning 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes43
+---------
+Text Length: 24
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+strong 2.0  = 2.0
+-----
+Average SO: 2.0
+-----
+Adverbs:
+-----
+very well 1.0 X 1.2 (INTENSIFIED)  = 1.2
+-----
+Average SO: 1.2
+-----
+-----
+SO by Sentence
+-----
+looking strong , let it test the previous days &#39; range and then push up , it held the 54.50 ish level very well 3.2
+---------
+Total SO: 1.6
+---------
+######
+---------
+yes44
+---------
+Text Length: 15
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+low -1.0  X 1.5 (NEGATIVE) = -1.5
+-----
+Average SO: -1.5
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+back in the game , very orderly pullback on low volume , holding from 27.50 -1.5
+---------
+Total SO: -1.5
+---------
+######
+---------
+yes45
+---------
+Text Length: 5
+---------
+Nouns:
+-----
+monster -2.0  X 1.5 (NEGATIVE) = -3.0
+-----
+Average SO: -3.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+$ uaa in monster mode -3.0
+---------
+Total SO: -3.0
+---------
+######
+---------
+yes46
+---------
+Text Length: 3
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+see notes  0
+---------
+Total SO: 0
+---------
+######
+---------
+yes47
+---------
+Text Length: 4
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+looks like $ 15 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes48
+---------
+Text Length: 15
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+not wise 3.0 - 4.0 (NEGATED)  X 1.5 (NEGATIVE) = -1.5
+short -5.0 X 0 (BLOCKED) = 0
+-----
+Average SO: -0.75
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+. 0
+. 0
+not wise to short here , .... #technical run on Team Canada news -1.5
+---------
+Total SO: -0.75
+---------
+######
+---------
+yes49
+---------
+Text Length: 24
+---------
+Nouns:
+-----
+breakout 5.0  = 5.0
+-----
+Average SO: 5.0
+-----
+Verbs:
+-----
+won 3.0 X 2.0 (EXCLAMATION)  = 6.0
+-----
+Average SO: 6.0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+don &#39; t play with fire . 0
+. 0
+and or won &#39; t burn you ! 6.0
+#technical breakout . 5.0
+. 0
+upper keltner # higher 0
+---------
+Total SO: 5.5
+---------
+######
+---------
+yes5
+---------
+Text Length: 5
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+carry 4.0 X 0 (IRREALIS) = 0
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+could carry a 24 PE 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes50
+---------
+Text Length: 10
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+obvious -2.0 X 0 (QUESTION) = 0
+-----
+Average SO: 0.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+that pattern was too obvious , shake &amp; bake ? 0
+---------
+Total SO: 0.0
+---------
+######
+---------
+yes51
+---------
+Text Length: 7
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+turning up again , in from 63 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes52
+---------
+Text Length: 4
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+See notes . 0
+. 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes53
+---------
+Text Length: 27
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+short -5.0  X 1.5 (NEGATIVE) = -7.5
+-----
+Average SO: -7.5
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+... now in short squeeze mode . -7.5
+. 0
+Bollinger Bands are going haywire . 0
+. 0
+price squeeze is over ... and Short Squeeze has taken over ! 0
+---------
+Total SO: -7.5
+---------
+######
+---------
+yes54
+---------
+Text Length: 3
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+see notes ... 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes55
+---------
+Text Length: 11
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+Loving 3.0 X 2.0 (EXCLAMATION)  = 6.0
+-----
+Average SO: 6.0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+$ pfe is performing as expected . 6.0
+Loving the move ! 0
+---------
+Total SO: 6.0
+---------
+######
+---------
+yes56
+---------
+Text Length: 19
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+$ ua ... the most extreme squeeze is coming . 0
+. 0
+see 5 minute candle . 0
+. 0
+#technical #breakout 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes57
+---------
+Text Length: 19
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Waddell &amp; Reed ... I can talk about it &#39; til I &#39; m blue in the face . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes58
+---------
+Text Length: 5
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+is Bae . 0
+@ 1simpletrader 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes59
+---------
+Text Length: 4
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+BTFD . 0
+@ 1Simpletrader 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes6
+---------
+Text Length: 23
+---------
+Nouns:
+-----
+miracle 5.0  = 5.0
+-----
+Average SO: 5.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+Big 1.0  = 1.0
+little -1.0  X 1.5 (NEGATIVE) = -1.5
+-----
+Average SO: -0.25
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+$ PRELF to resume shortly . 1.0
+Big name for us . 0
+Let &#39; s see if we get a little Christmas miracle . 3.5
+---------
+Total SO: 1.5
+---------
+######
+---------
+yes60
+---------
+Text Length: 7
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+MOAR CRYPTO GAINZ : via @the_real_fly http: 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes61
+---------
+Text Length: 9
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Probably a gap n go Monday . 0
+@ 1simpletrader 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes62
+---------
+Text Length: 5
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Yo girl . 0
+@ 1simpletrader 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes63
+---------
+Text Length: 2
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Technical Analysis 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes64
+---------
+Text Length: 15
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+break through 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adjectives:
+-----
+nice 2.0  = 2.0
+-----
+Average SO: 2.0
+-----
+Adverbs:
+-----
+just 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+-----
+SO by Sentence
+-----
+Really a nice bull flag in - just needs to break through the 200-day MA 4.0
+---------
+Total SO: 1.3333333333333333
+---------
+######
+---------
+yes65
+---------
+Text Length: 17
+---------
+Nouns:
+-----
+breakout 5.0  = 5.0
+-----
+Average SO: 5.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Above the breakout level , now all needs to do is make a run for it . 5.0
+---------
+Total SO: 5.0
+---------
+######
+---------
+yes66
+---------
+Text Length: 7
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+Really liking 1.0 X 1.2 (INTENSIFIED)  = 1.2
+-----
+Average SO: 1.2
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Really liking this setup . 1.2
+@ 1simpletrader 0
+---------
+Total SO: 1.2
+---------
+######
+---------
+yes67
+---------
+Text Length: 6
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+PRAY FOR @citronresearch . 0
+@ 1simpletrader 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes68
+---------
+Text Length: 2
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+see notes 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes69
+---------
+Text Length: 4
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+see my notes . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes7
+---------
+Text Length: 18
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+buying 5.0 X 2.0 (EXCLAMATION)  = 10.0
+-----
+Average SO: 10.0
+-----
+Adjectives:
+-----
+great 4.0  = 4.0
+-----
+Average SO: 4.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+while we were at lunch , the price action was great . 4.0
+. 0
+we resume buying here ! 10.0
+---------
+Total SO: 7.0
+---------
+######
+---------
+yes70
+---------
+Text Length: 13
+---------
+Nouns:
+-----
+value 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+AWESOME 5.0 X 2.0 (CAPITALIZED)  = 10.0
+-----
+Average SO: 10.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+ALERT . 0
+This is the value of having an AWESOME news feed . 13.0
+---------
+Total SO: 6.5
+---------
+######
+---------
+yes71
+---------
+Text Length: 15
+---------
+Nouns:
+-----
+low volatility -1.0 X -1.0 (INTENSIFIED)  = 1.0
+-----
+Average SO: 1.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+pretty 2.0  = 2.0
+-----
+Average SO: 2.0
+-----
+-----
+SO by Sentence
+-----
+will advise its pretty low volatility but that is because it was after market announcement 3.0
+---------
+Total SO: 1.5
+---------
+######
+---------
+yes72
+---------
+Text Length: 11
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+17.50 dbl bottom . 0
+Could be curling up to 18.50-19 . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes73
+---------
+Text Length: 8
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+The best stocks into year end : http: 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes74
+---------
+Text Length: 22
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Dynamic O&amp;G Services ... Possible bottom . 0
+( We can only hope . ) 0
+Needs above $ 10 to get going . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes75
+---------
+Text Length: 6
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+Good 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Home price trend . 3.0
+Good for 0
+---------
+Total SO: 3.0
+---------
+######
+---------
+yes76
+---------
+Text Length: 8
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Time to start adding for the cycle . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes77
+---------
+Text Length: 4
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+chart https: via https: 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes78
+---------
+Text Length: 13
+---------
+Nouns:
+-----
+asset 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+huge 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+chart https: time to start adding as this asset has huge LT demand 4.0
+---------
+Total SO: 2.0
+---------
+######
+---------
+yes79
+---------
+Text Length: 3
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+chart https: via 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes8
+---------
+Text Length: 9
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+The more people in diapers trade catching a bid 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes80
+---------
+Text Length: 7
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+chart https: via Trade idea next post 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes81
+---------
+Text Length: 3
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+vertical put spread 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes82
+---------
+Text Length: 28
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+short -5.0  X 1.5 (NEGATIVE) = -7.5
+-----
+Average SO: -7.5
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Tesla ... Certainly don &#39; t want to be short this going into &#39; 18 . -7.5
+And if it gets a break above $ 390 ... yikes . 0
+---------
+Total SO: -7.5
+---------
+######
+---------
+yes83
+---------
+Text Length: 19
+---------
+Nouns:
+-----
+breakout 5.0  = 5.0
+-----
+Average SO: 5.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+vs. Transports vs. S&amp;P 500 ... I see this as a breakout and retest , but needs confirmation . 5.0
+---------
+Total SO: 5.0
+---------
+######
+---------
+yes84
+---------
+Text Length: 22
+---------
+Nouns:
+-----
+breakout 5.0  = 5.0
+-----
+Average SO: 5.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+good 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Russell 2000 Index ... Small Caps with a bullish breakout of a rising wedge this year . 5.0
+Looks good for 2018 . 3.0
+---------
+Total SO: 4.0
+---------
+######
+---------
+yes85
+---------
+Text Length: 23
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+US Oil Fund ... Remember the contango in 2016 ? 0
+Now you are going to get to see what backwardation looks like . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes86
+---------
+Text Length: 18
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+like this setup a lot more 1.0 X 0.5 (INTENSIFIED)  = 0.5
+-----
+Average SO: 0.5
+-----
+Adjectives:
+-----
+Nice 2.0  = 2.0
+-----
+Average SO: 2.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+vs. Chinese Energy vs. US Energy ... I like this setup a lot more . 2.5
+Nice retest . 0
+---------
+Total SO: 1.25
+---------
+######
+---------
+yes87
+---------
+Text Length: 20
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+Not a bad -3.0 + 3.0 (NEGATED) = 0
+-----
+Average SO: 0.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Harley-Davidson . 0
+. 0
+Coasting into a Long Term trend line . 0
+Not a bad spot to start a position . 0.0
+---------
+Total SO: 0.0
+---------
+######
+---------
+yes88
+---------
+Text Length: 21
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+long -1.0  X 1.5 (NEGATIVE) = -1.5
+-----
+Average SO: -1.5
+-----
+-----
+SO by Sentence
+-----
+Genesis Energy ... Interesting spot to possibly get long . -1.5
+Got ta be a believer in Pipelines for 2018 though . 0
+---------
+Total SO: -1.5
+---------
+######
+---------
+yes89
+---------
+Text Length: 23
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+European 1.0  = 1.0
+fair 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+European Financials ... To be fair , this is the same look a lot of US Banks had before they broke out . 2.0
+---------
+Total SO: 1.0
+---------
+######
+---------
+yes9
+---------
+Text Length: 26
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+lost -2.0  X 1.5 (NEGATIVE) = -3.0
+-----
+Average SO: -3.0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+sorry -3.0  X 1.5 (NEGATIVE) = -4.5
+very well 1.0 X 1.2 (INTENSIFIED)  = 1.2
+-----
+Average SO: -1.65
+-----
+-----
+SO by Sentence
+-----
+sorry so many people lost money . -7.5
+Until yesterday was doing very well . 1.2
+Story doesn &#39; t change however . 0
+Added more at $ 6.59 0
+---------
+Total SO: -2.1
+---------
+######
+---------
+yes90
+---------
+Text Length: 10
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+German DAX ... German equities still cruiin &#39; along . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes91
+---------
+Text Length: 8
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Stericycle ... Interesting spot for a bounce . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes92
+---------
+Text Length: 23
+---------
+Nouns:
+-----
+Energy 1.0  = 1.0
+mess -2.0  X 1.5 (NEGATIVE) = -3.0
+-----
+Average SO: -1.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Energy Transfer Partners ... Dare I say it , showing signs of life . 1.0
+This stock has been a mess for years . -3.0
+---------
+Total SO: -1.0
+---------
+######
+---------
+yes93
+---------
+Text Length: 17
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Grupo Televisa ... Will it hold this trend line again and rally over the coming years ? 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes94
+---------
+Text Length: 21
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+ready 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adverbs:
+-----
+up 4.0  = 4.0
+Just 1.0  = 1.0
+-----
+Average SO: 2.5
+-----
+-----
+SO by Sentence
+-----
+Biotech ... Holding after the retest . 0
+Could be ready for another leg up . 6.0
+Just keep an open mind . 0
+---------
+Total SO: 2.0
+---------
+######
+---------
+yes95
+---------
+Text Length: 16
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+EQT Corp ... Taking note of this inflection point and the Long Term trend line . 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes96
+---------
+Text Length: 23
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+Nice 2.0  = 2.0
+-----
+Average SO: 2.0
+-----
+Adverbs:
+-----
+just 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+-----
+SO by Sentence
+-----
+Xperi ... Holy cow . 2.0
+Nice monthly candle so far , coming off a Monthly RSI that just nicked 30 in November . 1.0
+---------
+Total SO: 1.5
+---------
+######
+---------
+yes97
+---------
+Text Length: 2
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Breakout Alert 0
+---------
+Total SO: 0
+---------
+######
+---------
+yes98
+---------
+Text Length: 3
+---------
+Nouns:
+-----
+trade 3.0  = 3.0
+-----
+Average SO: 3.0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+-----
+Average SO: 0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+trade idea . 3.0
+---------
+Total SO: 3.0
+---------
+######
+---------
+yes99
+---------
+Text Length: 9
+---------
+Nouns:
+-----
+-----
+Average SO: 0
+-----
+Verbs:
+-----
+-----
+Average SO: 0
+-----
+Adjectives:
+-----
+big 1.0  = 1.0
+-----
+Average SO: 1.0
+-----
+Adverbs:
+-----
+-----
+Average SO: 0
+-----
+-----
+SO by Sentence
+-----
+Cyber Security ETF with a big weekly gap up 1.0
+---------
+Total SO: 1.0
+---------
