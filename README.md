@@ -30,7 +30,9 @@ For machine learning sentiment engine:
 ```
 sh run_ml_model.sh
 ```
-For lexicon-based sentiment engine
+For lexicon-based sentiment engine :
+
+Please make sure that you have already connected to the server as described in Installation step 3 and 4
 ```
 sh run_text_preprocessing.sh
 sh run_sentiment_calculator.sh
