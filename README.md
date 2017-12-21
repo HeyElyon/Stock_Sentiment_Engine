@@ -14,11 +14,11 @@ The code is to build a sentiment engine fore stock market based on two approache
 ### Installtion
 
 1. Install Stanford CoreNLP
-1).  Download [Newest Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
-2). `unzip stanford-corenlp-full-2016-10-31.zip`
-3). `cd stanford-corenlp-full-2016-10-31`
-4). `java -mx5g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -timeout 10000`
-5). `pip3 install pycorenlp`
+- 1).  Download [Newest Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
+- 2). `unzip stanford-corenlp-full-2016-10-31.zip`
+- 3). `cd stanford-corenlp-full-2016-10-31`
+- 4). `java -mx5g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -timeout 10000`
+- 5). `pip3 install pycorenlp`
 2. Install nltk `pip install nltk`
 3. Install sklearn `pip install sklearn`
 *****************************************************************************
@@ -88,8 +88,8 @@ sh run_sentiment_calculator.sh
 - Leverage network information in StockTwits messages to adjust weight
 
 ### Reference
-[1] Taboada, Maite, Julian Brooke, Milan Tofiloski, Kimberly Voll and Manfred Stede (2011) [Lexicon-Based Methods for Sentiment Analysis](https://www.mitpressjournals.org/doi/abs/10.1162/COLI_a_00049). Computational Linguistics 37 (2): 267-307. Source Code by Taboada
-[2] Bo Pang, Lillian Lee, and Shivakumar Vaithyanathan, Proceedings of the 14th International Conference on Intelligent Data Engineering and Automated Learning, [Thumbs up? Sentiment Classification using Machine Learning Techniques](https://arxiv.org/abs/cs/0205070), 2002.
-[3]Thorsten Joachims, Making large-scale SVM learning practical, Advances in Kernel Methods - Support Vector Learning, 1999.
-[4] Mukesh Chapagain, Machine Learning & Sentiment Analysis: Text Classification, 2016
-[5]Councill, Issac G, Ryan McDonanld, and Leonid Velikovich, Proceedubgs of the Wirkshop on NEgation and Speculation in Natural Language Processing, [What’s great and what’s not: Learning to classify the scope of negation for improved sentiment analysis](https://dl.acm.org/citation.cfm?id=1858969), 2010.
+- [1] Taboada, Maite, Julian Brooke, Milan Tofiloski, Kimberly Voll and Manfred Stede (2011) [Lexicon-Based Methods for Sentiment Analysis](https://www.mitpressjournals.org/doi/abs/10.1162/COLI_a_00049). Computational Linguistics 37 (2): 267-307. Source Code by Taboada
+- [2] Bo Pang, Lillian Lee, and Shivakumar Vaithyanathan, Proceedings of the 14th International Conference on Intelligent Data Engineering and Automated Learning, [Thumbs up? Sentiment Classification using Machine Learning Techniques](https://arxiv.org/abs/cs/0205070), 2002.
+- [3]Thorsten Joachims, Making large-scale SVM learning practical, Advances in Kernel Methods - Support Vector Learning, 1999.
+- [4] Mukesh Chapagain, Machine Learning & Sentiment Analysis: Text Classification, 2016
+- [5]Councill, Issac G, Ryan McDonanld, and Leonid Velikovich, Proceedubgs of the Wirkshop on NEgation and Speculation in Natural Language Processing, [What’s great and what’s not: Learning to classify the scope of negation for improved sentiment analysis](https://dl.acm.org/citation.cfm?id=1858969), 2010.
