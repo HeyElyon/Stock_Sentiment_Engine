@@ -49,12 +49,12 @@ The techniques I learned in MP1 and the lectures can well apply to this step. Re
 It is the script in `Preprocess.py`.
 
 ### Stock Sentiment Engine
-I. Sentiment Engine under Machine Learning Approach
+**I. Sentiment Engine under Machine Learning Approach**
 - Naive Bayes
 - Support Vector Machine (SVM)
 - Maximum Entropy
 
-Instruction: 
+**Instruction:**
 
 In Terminal: under folder `Source_Code`
 ```
@@ -70,17 +70,17 @@ python3.5 machine_learning_processing/ML_Run.py –ct NaiveBayes –ts StockTwit
 echo "Done! ML model completed.”
 ```
 
-Inplementation:
+**Inplementation:**
 
 `nltk` package is sourced. The member functions for `class MachineLearningNLP` are in `main_MachineLearningEngine.py`. The main script will call both `Preprocess.py` and `MachineLearningNLP.py` to train the data. 
 
-II. Sentiment Engine under Lexicon Approach
+**II. Sentiment Engine under Lexicon Approach**
 
 There are many popular methods used in research and industry. After reading many relevant documents and papers, I regard Semantic Orientation CALculator (SO-CAL) as the lexicon-based approach for my project. The details reasonings can be referred to my Technology Review.  
 
 I build my SO-CAL based on the source code by the paper author Taboada. I modify the code and also apply TF-IDF to the SO correction for stock market. Then map the value to [-5,5] range. Manual check and adjust the stock dictionary.
 
-Instruction: 
+**Instruction:** 
 
 In Terminal: under folder `Source_Code`
 ```
