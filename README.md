@@ -1,5 +1,3 @@
-# SO-CAL
-
 # Sentiment Engine for Stock Market
 
 The code is to build a sentiment engine fore stock market based on two approaches: machine learning and lexicon-based. The project is highly consistent with the technology review.
