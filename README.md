@@ -25,6 +25,7 @@ The code is to build a sentiment engine fore stock market based on two approache
 
 ### Instruction to Run Sentiment Engine
 In Terminal, set directory to `Source_Code`
+
 For machine learning sentiment engine:
 ```
 sh run_ml_model.sh
@@ -54,11 +55,13 @@ I. Sentiment Engine under Machine Learning Approach
 - Maximum Entropy
 
 Instruction: 
+
 In Terminal: under folder `Source_Code`
 ```
 sh run_ml_model.sh
 ```
 To change arguments in `run_ml_model.sh`
+
 -for `-ct`, set to `NaiveBayes` `SVM` `MaximumEntropy`
 
 ```
@@ -68,13 +71,17 @@ echo "Done! ML model completed.”
 ```
 
 Inplementation:
+
 `nltk` package is sourced. The member functions for `class MachineLearningNLP` are in `main_MachineLearningEngine.py`. The main script will call both `Preprocess.py` and `MachineLearningNLP.py` to train the data. 
 
 II. Sentiment Engine under Lexicon Approach
+
 There are many popular methods used in research and industry. After reading many relevant documents and papers, I regard Semantic Orientation CALculator (SO-CAL) as the lexicon-based approach for my project. The details reasonings can be referred to my Technology Review.  
+
 I build my SO-CAL based on the source code by the paper author Taboada. I modify the code and also apply TF-IDF to the SO correction for stock market. Then map the value to [-5,5] range. Manual check and adjust the stock dictionary.
 
 Instruction: 
+
 In Terminal: under folder `Source_Code`
 ```
 sh run_text_preprocessing.sh
