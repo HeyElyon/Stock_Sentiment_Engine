@@ -12,6 +12,7 @@ The code is to build a sentiment engine fore stock market based on two approache
 *****************************************************************************
 
 ### Installtion
+The code runs in **Python3.5 environment**.
 
 1. Install Stanford CoreNLP
 - 1).  Download [Newest Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
