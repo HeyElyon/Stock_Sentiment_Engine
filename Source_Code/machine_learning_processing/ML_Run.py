@@ -53,7 +53,7 @@ def main():
         sys.exit(0)
 
     if data_source=='Amazon':    
-        training_csv = pd.read_csv(file_path+'train.csv',header=None)
+        training_csv = pd.read_csv(file_path+'train.csv',header=None,sep='|')
         label_dict = {1:'neg',2:'pos'}  
         training_csv.columns = ['label','headline','text']
         training_csv['label'] = training_csv['label'].map(label_dict)
