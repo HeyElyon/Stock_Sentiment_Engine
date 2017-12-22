@@ -68,11 +68,16 @@ sh run_ml_model.sh
 ```
 To change arguments in `run_ml_model.sh`
 
--for `-ct`, set to `NaiveBayes` `SVM` `MaximumEntropy`
+-for `-ct`, classifier type can be set to `NaiveBayes` `SVM` `MaximumEntropy`
 
+-for `-ts`, training source can be set to `Amazon` `Stocktwits`
+
+-for `-td`, testing source can be set to `Amazon` `Stocktwits`
+
+-for `-f`, feats can be set to `word_feats` `bigram_word_feats`
 ```
 echo "Running Machine Learning Model: "
-python3.5 machine_learning_processing/ML_Run.py –ct NaiveBayes –ts StockTwits –td StockTwits 
+python3.5 machine_learning_processing/ML_Run.py –ct NaiveBayes –ts Stocktwits –td Stocktwits 
 echo "Done! ML model completed.”
 ```
 
