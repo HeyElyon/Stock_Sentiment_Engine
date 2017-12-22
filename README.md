@@ -32,11 +32,14 @@ sh run_ml_model.sh
 ```
 For lexicon-based sentiment engine :
 
-Please make sure that you have already connected to the server as described in Installation step 3 and 4
+Please make sure that you keep connected to the server under another Teriminal window, as described in *Installation step 3 and 4*
 ```
 sh run_text_preprocessing.sh
 sh run_sentiment_calculator.sh
 ```
+With the commands, you should be able to test both Machine Learning Engine and Lexicon-based Engine. Below are some details and implementation idea.
+
+
 *****************************************************************************
 #### Data Crawler
 The stock sentiment data used for this project is [StockTwits](https://api.stocktwits.com/developers/docs). 
